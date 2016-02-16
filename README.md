@@ -41,7 +41,14 @@
 - [ ] Locked laptops
 - [ ] No cellphones
 - [ ] In front of the scrum board 
-- [ ] Defined maximum time for each person 
+- [ ] Defined maximum time for each person
+ 
+ 
+### Code Review Checklist
+- [ ] Manual functional test
+- [ ] Test coverage
+- [ ] All unit tests passing
+- [ ] What can be open sourced (anything that is different from standard like Meteor Guide)
  
  
 
