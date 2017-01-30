@@ -27,7 +27,7 @@
  
 ## Sprint retro
 
-- [ ] Before spring planning
+- [ ] Before sprint planning
 - [ ] Discus tasks that missed the estimation
 - [ ] Discus Technical and architectural issues that came up
 - [ ] Get retro tasks and place them in the Backlog
